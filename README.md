@@ -1,15 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi 👋, I'm Imad Eddine a AI student and a mobile devolper.</div>  
   
 
-- 🌱 I’m currently learning Node.js and   
+- 🌱 I’m currently learning Machine Learning & Node.js
   
 
-- ❓ Ask me about anything related to Flutter and c++  
+- ❓ Ask me about anything related to Computer Science
   
 
 - 📫 How to reach me **imad.hamzaoui.008@gmail.com**  
@@ -79,7 +74,7 @@
 <a href="https://github.com/DidoHZ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/imad-hamzaoui" target="_blank">
+<a href="https://stackoverflow.com/users/15903006" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -89,7 +84,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidoHZ&hide_border=true&layout=compact" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DidoHZ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
